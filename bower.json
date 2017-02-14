@@ -1,0 +1,29 @@
+{
+  "name": "ambiata-weather",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.3.0",
+    "purescript-console": "^2.0.0",
+    "purescript-datetime": "^2.0.0",
+    "purescript-formatters": "^0.1.0",
+    "purescript-integers": "^2.1.0",
+    "purescript-maps": "^2.1.1",
+    "purescript-profunctor-lenses": "^2.6.0",
+    "purescript-quickcheck": "^3.1.1",
+    "purescript-now": "^2.0.0",
+    "purescript-safely": "^2.0.0",
+    "purescript-node-streams": "^2.0.0",
+    "purescript-node-fs": "^3.0.0",
+    "purescript-node-process": "^3.0.0",
+    "purescript-errors": "^2.2.0",
+    "purescript-yargs": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
